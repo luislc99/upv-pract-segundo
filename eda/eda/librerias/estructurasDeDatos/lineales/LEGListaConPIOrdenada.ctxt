@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=LEGListaConPIOrdenada
+comment0.text=\n\ Write\ a\ description\ of\ class\ LEGListaConPIOrdenada\ here.\n\n\ @author\ Luis\ Lopez\n\ @version\ 12/02/2019\n
+comment1.params=e
+comment1.target=void\ insertar(java.lang.Comparable)
+comment1.text=\n\ Inserta\ ordenadamente\ en\ la\ lista\ con\ PI\n\n\ @param\ \ \ e\ objecte\ a\ inserir\n\ @return\ \ void,\ no\ retorna\ res\ \ \ \n
+numComments=2
